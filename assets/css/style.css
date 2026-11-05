@@ -1,0 +1,121 @@
+:root {
+  --midnight-plum: #21172d;
+  --mystic-purple: #493452;
+  --moon-lavender: #b9a1c9;
+  --aged-parchment: #e9dcc7;
+  --antique-gold: #c6a568;
+  --dusty-rose: #a77c83;
+
+  --text-dark: #493452;
+  --text-light: #e9dcc7;
+
+  --font-heading: "Amarante", serif;
+  --font-body: "Lato", sans-serif;
+}
+
+::selection {
+  background-color: var(--dusty-rose);
+  color: var(--text-light);
+}
+
+::-moz-selection {
+  background-color: var(--dusty-rose);
+  color: var(--text-light);
+}
+
+body {
+  background-color: var(--aged-parchment);
+  margin: 0 auto;
+  font-family: var(--font-body);
+  font-size: 16px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-heading);
+}
+
+.bg-dark-grimoire {
+  background-color: var(--midnight-plum);
+  color: var(--text-light);
+}
+
+.bg-light-grimoire {
+  background-color: var(--aged-parchment);
+  color: var(--text-dark);
+}
+
+.form-title {
+  color: var(--text-dark);
+}
+
+.form-text {
+  color: var(--mystic-purple);
+  font-size: 20px;
+}
+
+.form-box {
+  background: #f5ede2;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border: solid 1px var(--antique-gold);
+}
+
+.form-label {
+  font-weight: bold;
+  color: var(--mystic-purple);
+}
+
+.form-control {
+  border: 1px solid var(--moon-lavender);
+  border-radius: 5px;
+  height: 60px;
+}
+
+.btn-primary {
+  background-color: var(--mystic-purple);
+  border-color: var(--mystic-purple);
+  color: var(--text-light);
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  border-radius: 5px;
+  width: 100%;
+  transition: 0.3s ease-in-out;
+}
+
+.btn-primary:hover {
+  background-color: var(--moon-lavender);
+  border-color: var(--moon-lavender);
+  color: var(--text-dark);
+  transition: 0.3s ease-in-out;
+}
+
+.signo-imagem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+}
+
+.signo-imagem img {
+  width: 100%;
+  max-width: 150px;
+  height: auto;
+  object-fit: contain;
+}
+
+.footer-simbol {
+  font-size: 18px;
+  color: var(--antique-gold);
+}
+
+.copyright {
+  color: var(--moon-lavender);
+  font-size: 14px;
+}

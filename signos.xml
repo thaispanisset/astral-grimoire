@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Áries é o primeiro signo do zodíaco, regido por Marte. Pessoas de Áries são conhecidas por sua energia, coragem e determinação. Elas tendem a ser líderes naturais e gostam de desafios.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Touro é o segundo signo do zodíaco, regido por Vênus. Pessoas de Touro são conhecidas por sua paciência, confiabilidade e apreciação pelas coisas boas da vida. Elas tendem a ser práticas e persistentes.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Gêmeos é o terceiro signo do zodíaco, regido por Mercúrio. Pessoas de Gêmeos são conhecidas por sua adaptabilidade, curiosidade e habilidades de comunicação. Elas tendem a ser versáteis e sociáveis.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Câncer é o quarto signo do zodíaco, regido pela Lua. Pessoas de Câncer são conhecidas por sua sensibilidade, empatia e lealdade. Elas tendem a ser protetoras e valorizam a família e o lar.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Leão é o quinto signo do zodíaco, regido pelo Sol. Pessoas de Leão são conhecidas por sua confiança, generosidade e criatividade. Elas tendem a ser líderes naturais e gostam de estar no centro das atenções.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Virgem é o sexto signo do zodíaco, regido por Mercúrio. Pessoas de Virgem são conhecidas por sua atenção aos detalhes, organização e praticidade. Elas tendem a ser analíticas e gostam de ajudar os outros.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Libra é o sétimo signo do zodíaco, regido por Vênus. Pessoas de Libra são conhecidas por sua diplomacia, senso de justiça e apreciação pela beleza. Elas tendem a buscar equilíbrio e harmonia em suas vidas.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Escorpião é o oitavo signo do zodíaco, regido por Plutão e Marte. Pessoas de Escorpião são conhecidas por sua intensidade, paixão e determinação. Elas tendem a ser misteriosas e têm uma forte intuição.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Sagitário é o nono signo do zodíaco, regido por Júpiter. Pessoas de Sagitário são conhecidas por sua aventura, otimismo e amor pela liberdade. Elas tendem a ser exploradoras e gostam de expandir seus horizontes.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Capricórnio é o décimo signo do zodíaco, regido por Saturno. Pessoas de Capricórnio são conhecidas por sua disciplina, responsabilidade e ambição. Elas tendem a ser práticas e focadas em alcançar seus objetivos.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>19/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Aquário é o décimo primeiro signo do zodíaco, regido por Urano e Saturno. Pessoas de Aquário são conhecidas por sua originalidade, independência e visão futurista. Elas tendem a ser inovadoras e valorizam a liberdade.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>20/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Peixes é o décimo segundo signo do zodíaco, regido por Netuno e Júpiter. Pessoas de Peixes são conhecidas por sua sensibilidade, empatia e imaginação. Elas tendem a ser intuitivas e têm uma forte conexão com o mundo emocional.</descricao>
+    </signo>
+</signos>
